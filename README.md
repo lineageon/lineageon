@@ -1,7 +1,6 @@
 <p align="center">
   <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFCC&center=true&vCenter=true&width=750&height=50&lines=DIVYANSH+KULSHRESTHA](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFCC&center=true&vCenter=true&width=750&height=50&lines=DIVYANSH+KULSHRESTHA)" alt="Name Header" />
 </p>
-
 <table width="100%">
   <tr>
     <td bgcolor="#0d1117" align="center" style="padding: 20px;">
