@@ -1,7 +1,25 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&height=60&lines=AUDIO+ENGINEER+%2F%2F+DSP+DEV;%5BSYSTEM+STATUS%3A+ACTIVE%5D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=800&color=00FFCC&center=true&vCenter=true&width=600&height=50&lines=DIVYANSH+KULSHRESTHA;%5B+DSP+%2F%2F+AUDIO+DEVELOPER+%5D" alt="Typing Banner" />
 </p>
 
+<p align="center">
+  <code style="color: #ff007f; font-family: monospace; font-size: 13px;">
+    //_SIGNAL_FLOW: INPUT ──> [SPECTRAL_SUBTRACTION] ──> [JUCE_BUFFER] ──> OUTPUT_ENGINE
+  </code>
+</p>
+
+<p align="center">
+<code>
+  <font color="#888">0Hz</font> ░▒▓█║▌│█║▌│█║▌│█║▌│█║▌│█║▌│█║▌│█║▌│█║▌│█║▌│█║▌│█║▌│█║ <font color="#ff007f">22kHz</font>
+</code>
+</p>
+
+```monospace
+[SYSTEM KERNEL INITIALIZATION]
+├── TARGET_ARCH  :: x86_64 / ARM64 (Low-Latency Audio Thread)
+├── FRAMEWORKS   :: JUCE Core v7.x / VST3 SDK / C++20
+├── AI_ROUTING   :: Python Audio Core (Offline Feature Extraction)
+└── STATUS       :: BUFFER_SIZE=512 samples | SAMPLING_RATE=44100 Hz | [READY]
 ---
 
 ## 🎧 CONSOLE_INTERFACE // ABOUT ME
