@@ -1,19 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=800&color=00FFCC&center=true&vCenter=true&width=600&height=50&lines=DIVYANSH+KULSHRESTHA;%5B+DSP+%2F%2F+AUDIO+DEVELOPER+%5D" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=750&height=90&lines=DIVYANSH+KULSHRESTHA;%5B+DSP+%2F%2F+AUDIO+DEVELOPER+%5D;//_SIGNAL_FLOW:+INPUT+──>+[SPECTRAL_SUBTRACTION]+──>+[JUCE_BUFFER]+──>+OUTPUT" alt="Dynamic Audio Dev Banner" />
 </p>
-
-<p align="center">
-  <code style="color: #ff007f; font-family: monospace; font-size: 13px;">
-    //_SIGNAL_FLOW: INPUT ──> [SPECTRAL_SUBTRACTION] ──> [JUCE_BUFFER] ──> OUTPUT_ENGINE
-  </code>
-</p>
-
-<p align="center">
-<code>
-  <font color="#888">0Hz</font> ░▒▓█║▌│█║▌│█║▌│█║▌│█║▌│█║▌│█║▌│█║▌│█║▌│█║▌│█║▌│█║▌│█║ <font color="#ff007f">22kHz</font>
-</code>
-</p>
-
 ```monospace
 [SYSTEM KERNEL INITIALIZATION]
 ├── TARGET_ARCH  :: x86_64 / ARM64 (Low-Latency Audio Thread)
