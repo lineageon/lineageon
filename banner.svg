@@ -1,0 +1,68 @@
+<svg width="1280" height="400" viewBox="0 0 1280 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="400" fill="#0d1117"/>
+
+  <defs>
+    <linearGradient id="wave" x1="0" y1="0" x2="1280" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00ffe1"/>
+      <stop offset="0.5" stop-color="#ff2ea6"/>
+      <stop offset="1" stop-color="#ffb703"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <g opacity="0.15">
+    <rect x="0" y="40" width="1280" height="1" fill="#00ffe1"/>
+    <rect x="0" y="80" width="1280" height="1" fill="#00ffe1"/>
+    <rect x="0" y="120" width="1280" height="1" fill="#00ffe1"/>
+    <rect x="0" y="160" width="1280" height="1" fill="#00ffe1"/>
+    <rect x="0" y="200" width="1280" height="1" fill="#00ffe1"/>
+    <rect x="0" y="240" width="1280" height="1" fill="#00ffe1"/>
+    <rect x="0" y="280" width="1280" height="1" fill="#00ffe1"/>
+    <rect x="0" y="320" width="1280" height="1" fill="#00ffe1"/>
+  </g>
+
+  <path d="M0 220 C80 140 160 300 240 220 C320 140 400 300 480 220 C560 140 640 300 720 220 C800 140 880 300 960 220 C1040 140 1120 300 1280 220" stroke="url(#wave)" stroke-width="5" fill="none" filter="url(#glow)">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="
+      M0 220 C80 140 160 300 240 220 C320 140 400 300 480 220 C560 140 640 300 720 220 C800 140 880 300 960 220 C1040 140 1120 300 1280 220;
+      M0 240 C80 300 160 140 240 240 C320 300 400 140 480 240 C560 300 640 140 720 240 C800 300 880 140 960 240 C1040 300 1120 140 1280 240;
+      M0 220 C80 140 160 300 240 220 C320 140 400 300 480 220 C560 140 640 300 720 220 C800 140 880 300 960 220 C1040 140 1120 300 1280 220
+      "/>
+  </path>
+
+  <text x="70" y="140" fill="#ffffff" font-family="monospace" font-size="56" font-weight="bold">
+    AUDIO::DSP::SYSTEMS
+  </text>
+
+  <text x="72" y="190" fill="#00ffe1" font-family="monospace" font-size="22">
+    REAL-TIME AUDIO ENGINEERING
+  </text>
+
+  <text x="72" y="225" fill="#ff2ea6" font-family="monospace" font-size="22">
+    DSP DEVELOPER + AI AUDIO MODELER
+  </text>
+
+  <text x="72" y="260" fill="#ffb703" font-family="monospace" font-size="22">
+    LOW LATENCY SYSTEMS + NEURAL DSP
+  </text>
+
+  <rect x="70" y="300" width="520" height="16" rx="8" fill="#1f2937"/>
+  <rect x="70" y="300" width="460" height="16" rx="8" fill="#00ffe1">
+    <animate attributeName="width" values="460;500;460" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="620" y="313" fill="#ffffff" font-family="monospace" font-size="16">
+    SIGNAL STABILITY :: 96%
+  </text>
+
+  <text x="1020" y="360" fill="#6b7280" font-family="monospace" font-size="14">
+    realtime::audio::pipeline
+  </text>
+</svg>
