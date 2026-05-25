@@ -10,6 +10,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="70" height="70" style="margin-right: 20px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="70" height="70" />
 </p>
+<h3 align="left">🗄️ Database & Cloud</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="70" height="70" style="margin-right: 20px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase" width="70" height="70" />
+</p>
 <!--
 **lineageon/lineageon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
