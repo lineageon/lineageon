@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=750&height=90&lines=DIVYANSH+KULSHRESTHA;%5B+DSP+%2F%2F+AUDIO+DEVELOPER+%5D;//_SIGNAL_FLOW:+INPUT+──>+[SPECTRAL_SUBTRACTION]+──>+[JUCE_BUFFER]+──>+OUTPUT" alt="Dynamic Audio Dev Banner" />
 </p>
+
 ```monospace
 [SYSTEM KERNEL INITIALIZATION]
 ├── TARGET_ARCH  :: x86_64 / ARM64 (Low-Latency Audio Thread)
