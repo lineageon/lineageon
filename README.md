@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFCC&center=true&vCenter=true&width=750&height=50&lines=DIVYANSH+KULSHRESTHA" alt="Name Header" />
 </p>
-```html
 <table width="100%" bgcolor="#0B0E14" style="background-color: #0B0E14; border: 1px solid #1F2937; border-radius: 8px; font-family: monospace;">
   <tr>
     <td padding="15px">
