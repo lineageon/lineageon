@@ -1,18 +1,11 @@
 ## Hi there 👋
-<h3 align="left">⚙️ Programming Language</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="70" height="70" style="margin-right: 20px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="70" height="70" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=retro&color=0:3776AB,50:FF4E00,100:00599C&height=160&section=header&text=AUDIO%20ENGINEER%20//%20DSP%20DEVELOPER&fontSize=30&animation=fadeIn" alt="Header Banner" />
 </p>
-<h3 align="left">🗄️ Database & Cloud</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="70" height="70" style="margin-right: 20px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase" width="70" height="70" />
-</p>
-<h3 align="Left">🎨 UI/UX & Creative Tools</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="70" height="70" style="margin-right: 20px;" />
-  <img src="https://raw.githubusercontent.com/thelogos/resources/master/fl-studio/fl-studio.svg" alt="FL Studio" width="70" height="70" />
+
+```html
+<p align="center">
+  <code style="color: #00ffcc; font-family: monospace;">[SYSTEM STATUS: DEPLOYING REAL-TIME AUDIO KERNEL...]</code>
 </p>
 <!--
 **lineageon/lineageon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
