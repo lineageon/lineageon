@@ -96,36 +96,6 @@ C++ inference bridge experimentation
 
 ---
 
-## <font color="#00ffe1">SIGNAL_FLOW::TRACK</font>
-
-```text
-╭──────────────────────────────────────────────────────────────╮
-│  INPUT                                                      │
-│    │                                                        │
-│    ▼                                                        │
-│  AUDIO_CAPTURE                                              │
-│    │                                                        │
-│    ▼                                                        │
-│  FFT_ENGINE                                                 │
-│    │                                                        │
-│    ▼                                                        │
-│  SPECTRAL_SUBTRACTION                                       │
-│    │                                                        │
-│    ├────────► PHASE_ANALYSIS                                │
-│    │                                                        │
-│    ▼                                                        │
-│  JUCE_REALTIME_BUFFERS                                      │
-│    │                                                        │
-│    ▼                                                        │
-│  OPTIONAL_NEURAL_INFERENCE                                  │
-│    │                                                        │
-│    ▼                                                        │
-│  OUTPUT_BUS                                                 │
-╰──────────────────────────────────────────────────────────────╯
-```
-
----
-
 <table width="100%" bgcolor="#0d1117">
 <tr>
 <td width="50%">
@@ -277,26 +247,7 @@ MIC_INPUT
 <tr>
 <td>
 
-## <font color="#00ffe1">ENGINEERING::PHILOSOPHY</font>
 
-```text
-No unnecessary abstractions.
-No bloated runtimes.
-No fake latency claims.
-
-Everything is built around:
-- deterministic processing
-- stable callback execution
-- efficient memory flow
-- real-time safe audio handling
-- hardware-conscious optimization
-```
-
-</td>
-</tr>
-</table>
-
----
 
 <div align="center">
 
@@ -319,12 +270,5 @@ your.email@domain.com
 <br><br>
 
 ---
-
-```text
-[ SYSTEM MESSAGE ]
-No presets.
-No templates.
-Only signal flow.
-```
 
 </div>
