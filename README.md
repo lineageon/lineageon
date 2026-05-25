@@ -1,5 +1,7 @@
 ## Hi there 👋
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<p align="center">
+  <img src="https://www.python.org/static/community_logos/python-logo-only.svg" alt="Python Logo" width="150" height="150" />
+</p>
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 <!--
 **lineageon/lineageon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
