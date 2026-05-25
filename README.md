@@ -1,11 +1,11 @@
 ## Hi there 👋
-<h3 align="center">🎨 Frontend Development</h3>
+<h3 align="left">🎨 Frontend Development</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="70" height="70" style="margin-right: 20px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="70" height="70" style="margin-right: 20px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="70" height="70" />
 </p>
-<h3 align="center">⚙️ Backend Development</h3>
+<h3 align="left">⚙️ Backend Development</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="70" height="70" style="margin-right: 20px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="70" height="70" />
