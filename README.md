@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFCC&center=true&vCenter=true&width=750&height=50&lines=DIVYANSH+KULSHRESTHA](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFCC&center=true&vCenter=true&width=750&height=50&lines=DIVYANSH+KULSHRESTHA)" alt="Name Header" />
-</p>
+<h1 align="center">
+  <font color="#00FFCC" face="monospace">DIVYANSH KULSHRESTHA</font>
+</h1>
+
 <table width="100%">
   <tr>
     <td bgcolor="#0d1117" align="center" style="padding: 20px;">
@@ -29,7 +30,7 @@
     </td>
   </tr>
 </table>
-```monospace
+
 [PANEL_HARDWARE_SPEC]
 ├── TARGET_ARCH  :: x86_64 / ARM64 (Low-Latency Audio Thread)
 ├── FRAMEWORKS   :: JUCE Core v7.x / VST3 SDK / C++20
