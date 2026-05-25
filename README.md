@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&height=50&lines=AUDIO+ENGINEER+%2F%2F+DSP+DEV](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&height=50&lines=AUDIO+ENGINEER+%2F%2F+DSP+DEV);[SYSTEM+STATUS%3A+ONLINE]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&height=60&lines=AUDIO+ENGINEER+%2F%2F+DSP+DEV;%5BSYSTEM+STATUS%3A+ACTIVE%5D" alt="Typing SVG" />
 </p>
 
 ---
