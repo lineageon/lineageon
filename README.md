@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<h3 align="center">⚙️ Backend Development</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="120" height="120" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="70" height="70" style="margin-right: 20px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="70" height="70" />
 </p>
 <!--
 **lineageon/lineageon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
