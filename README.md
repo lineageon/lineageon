@@ -253,10 +253,10 @@ MIC_INPUT
 
 ## <font color="#ff2ea6">ROUTING::CHANNELS</font>
 
-<kbd>LINKEDIN</kbd>
+<kbd>X</kbd>
 
 ```text
-https://linkedin.com/in/your-profile
+https://x.com/lineagebeats
 ```
 
 <br>
@@ -264,7 +264,7 @@ https://linkedin.com/in/your-profile
 <kbd>MAIL</kbd>
 
 ```text
-your.email@domain.com
+divyanshkulshrestha10524@gmail.com
 ```
 
 <br><br>
